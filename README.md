@@ -13,9 +13,7 @@ This project demonstrates the complete machine learning workflow including data 
 - [Technologies Used](#-technologies-used)
 - [How to Run the Project](#-how-to-run-the-project)
 - [Sample Output](#-sample-output)
-- [Model Saving](#-model-saving)
 - [Future Enhancements](#-future-enhancements)
-- [Author](#-author)
 
 ---
 
