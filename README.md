@@ -43,7 +43,6 @@ Dataset Source: **Kaggle**
 
 - **Python**
 - **Pandas**
-- **NumPy**
 - **Scikit-learn**
 - **Joblib**
 
